@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-*example*.png
+*.png
 # OS generated files #
 ######################
 .DS_Store
